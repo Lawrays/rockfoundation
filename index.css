@@ -222,8 +222,8 @@ a.activ,a:hover{
  
 .desc {
   position: relative;
-  width: 600px;
-  height: 400px;
+  width: 100%;
+  height: 40%;
   overflow: hidden;
 }
 .desc:hover .judul {
