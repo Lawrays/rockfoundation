@@ -212,6 +212,8 @@ a.activ,a:hover{
   transition: all 0.2s;
   object-fit: cover;
   cursor: pointer;
+  border-radius: 7px;
+  padding: 3px;
 }
 #container .thumbnail .thumb:hover {
   box-shadow: 3px 3px 20px;
