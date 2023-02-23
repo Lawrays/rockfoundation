@@ -283,7 +283,6 @@ a.activ,a:hover{
   height: 200px;
   width: 200px;
   transition: all 0.2s;
-  object-fit: cover;
   cursor: pointer; 
 }
 #proprietor:hover {
