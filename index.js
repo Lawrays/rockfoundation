@@ -28,5 +28,5 @@ container.addEventListener("click", function (e) {
     e.target.classList.add("active");
   }
 });
-video.autoplay = true
+video.autoplay = false
 video.onload
